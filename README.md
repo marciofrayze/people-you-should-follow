@@ -10,6 +10,10 @@ Presented in alphabetical order. Just pick one and start learning!
 - http://www.davefarley.net/
 - https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g
 
+# James Shore
+- http://jamesshore.com/
+- https://twitter.com/jamesshore
+
 # Kent Beck
 - https://en.wikipedia.org/wiki/Kent_Beck
 
