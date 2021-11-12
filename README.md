@@ -14,6 +14,10 @@ Presented in alphabetical order. Just pick one and start learning!
 - http://jamesshore.com/
 - https://twitter.com/jamesshore
 
+# Joe Armstrong
+- https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)
+- https://twitter.com/joeerl
+
 # Kent Beck
 - https://en.wikipedia.org/wiki/Kent_Beck
 
