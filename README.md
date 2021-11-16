@@ -7,11 +7,11 @@ This repo contains a list of people related to software development that I think
 Presented in alphabetical order. Just pick one and start learning!
 
 # Dave Farley
-- http://www.davefarley.net/
+- http://www.davefarley.net
 - https://www.youtube.com/channel/UCCfqyGl3nq_V0bo64CjZh8g
 
 # James Shore
-- http://jamesshore.com/
+- http://jamesshore.com
 - https://twitter.com/jamesshore
 
 # Joe Armstrong
@@ -27,6 +27,10 @@ Presented in alphabetical order. Just pick one and start learning!
 # Neal Ford 
 - http://nealford.com
 - https://twitter.com/neal4d
+
+# Patrick Kua
+- https://www.patkua.com
+- https://twitter.com/patkua
 
 # Rebecca Parsons
 - https://www.thoughtworks.com/pt/profiles/rebecca-parsons
