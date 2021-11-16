@@ -24,6 +24,10 @@ Presented in alphabetical order. Just pick one and start learning!
 # Martin Fowler
 - https://martinfowler.com
 
+# Neal Ford 
+- http://nealford.com
+- https://twitter.com/neal4d
+
 # Rebecca Parsons
 - https://www.thoughtworks.com/pt/profiles/rebecca-parsons
 
