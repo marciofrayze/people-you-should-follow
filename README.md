@@ -35,6 +35,11 @@ Presented in alphabetical order. Just pick one and start learning!
 # Rebecca Parsons
 - https://www.thoughtworks.com/pt/profiles/rebecca-parsons
 
+# Sam Newman
+- https://samnewman.io
+- https://samnewman.io/books/building_microservices_2nd_edition
+- https://twitter.com/samnewman
+
 # Curation
 
 This repository is maintained by Marcio Frayze David ([@marciofrayze](https://twitter.com/marciofrayze)). Feel free to fork it.
